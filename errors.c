@@ -1,7 +1,11 @@
 #include "shell.h"
 
 /**
+<<<<<<< HEAD
  *_eputs - prints an input string
+=======
+ * _eputs - prints an input string
+>>>>>>> 5f2099b0a08cda0df29260d8b4870b53c9623efd
  * @str: the string to be printed
  *
  * Return: Nothing
@@ -65,7 +69,11 @@ int _putfd(char c, int fd)
 }
 
 /**
+<<<<<<< HEAD
  *_putsfd - prints an input string
+=======
+ * _putsfd - prints an input string
+>>>>>>> 5f2099b0a08cda0df29260d8b4870b53c9623efd
  * @str: the string to be printed
  * @fd: the filedescriptor to write to
  *
